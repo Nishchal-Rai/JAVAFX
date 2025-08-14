@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: #222;
+    -fx-font-family: Arial;
+    -fx-text-fill: white;
+}
+
+.list-cell {
+    -fx-text-background-color: white;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-background-color: #444;
+    -fx-text-fill: white;
+}
