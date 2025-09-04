@@ -12,7 +12,6 @@ public class MainApplication extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-
         BorderPane root = new BorderPane();
         Scene scene = new Scene(root, 800, 600);
         MenuBar menuBar = new MenuBar();
